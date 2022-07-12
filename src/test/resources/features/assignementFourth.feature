@@ -1,7 +1,8 @@
 # new feature
 # Tags: optional
-
+@SmokeTest @RegressionTest
 Feature: A description
+
   Background: I am logged into Orange Application.
     Given when I am in OrangeHRP Application
   Scenario: Validate visibility of the main navigation bar

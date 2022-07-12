@@ -1,6 +1,6 @@
 # new feature
 # Tags: optional
-
+@RegressionTest
 Feature: Login
   Scenario Outline: Invalid Login
     Given I open My application

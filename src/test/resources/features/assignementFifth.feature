@@ -1,6 +1,6 @@
 # new feature
 # Tags: optional
-
+@SmokeTest
 Feature: A description
   Background: I am logged into Orange Application.
     Given when I am in OrangeHRP Application
