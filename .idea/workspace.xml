@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7278b2f9-2f70-491f-ac52-15e5facd6a6f" name="Changes" comment="Labs/Assessment Selenium Cucumber">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/assignementFifth.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/assignementFifth.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/assignementFourth.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/assignementFourth.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/assignementSixth.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/assignementSixth.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/assignementThird.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/assignementThird.feature" afterDir="false" />
-    </list>
+    <list default="true" id="7278b2f9-2f70-491f-ac52-15e5facd6a6f" name="Changes" comment="Labs/Assessment Selenium Cucumber update runner" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,15 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Saul Parada\Documents\SDET Project\Selenium\labsAssigment\src\test\resources\features" />
@@ -183,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657592215634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Labs/Assessment Selenium Cucumber update runner">
+      <created>1657594936659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657594936659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +198,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Labs/Assessment Selenium Cucumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="Labs/Assessment Selenium Cucumber" />
+    <MESSAGE value="Labs/Assessment Selenium Cucumber update runner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labs/Assessment Selenium Cucumber update runner" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
