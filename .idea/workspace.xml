@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7278b2f9-2f70-491f-ac52-15e5facd6a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/adminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/directoryMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/directoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/pages/pimPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testdata/datafile.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Assigment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/Lab8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/testscripts/TestBaseAssigment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/utility/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/utility/ListenersAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/utility/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/utility/encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Lab8Numbers.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Lab8Parameters.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/assignementFifth.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/assignementFirst.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/assignementFourth.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/assignementSecond.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/assignementSixth.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/assignementThird.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Substep Feature" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="29SNUwyEuAs3nZXwLQsqJGEqi66" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Saul Parada\Documents\SDET Project\Selenium\labsAssigment\src\test\resources\features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qa.utility" />
+      <recent name="com.qa.testscripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: assignementFifth">
+    <configuration name="Feature: assignementFifth" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/assignementFifth.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="labsAssigment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: assignementFifth" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: assignementFirst" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/assignementFirst.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="labsAssigment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: assignementFirst" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: assignementFourth" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/assignementFourth.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="labsAssigment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: assignementFourth" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: assignementSecond" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/assignementSecond.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="labsAssigment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: assignementSecond" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: assignementThird" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/assignementThird.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="labsAssigment" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: assignementThird" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: assignementFifth" />
+      <item itemvalue="Cucumber Java.Feature: assignementFirst" />
+      <item itemvalue="Cucumber Java.Feature: assignementFourth" />
+      <item itemvalue="Cucumber Java.Feature: assignementSecond" />
+      <item itemvalue="Cucumber Java.Feature: assignementThird" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: assignementFifth" />
+        <item itemvalue="Cucumber Java.Feature: assignementFourth" />
+        <item itemvalue="Cucumber Java.Feature: assignementSecond" />
+        <item itemvalue="Cucumber Java.Feature: assignementFirst" />
+        <item itemvalue="Cucumber Java.Feature: assignementThird" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7278b2f9-2f70-491f-ac52-15e5facd6a6f" name="Changes" comment="" />
+      <created>1653102549141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653102549141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
